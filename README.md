@@ -34,7 +34,7 @@
 **Credit to these mods and their developers for the code and help:**
 ### :star: [TOHRE](https://github.com/Loonie-Toons/) 
 > 
-> - TOH: Enhanced was forked from TOH-RE
+> なくなったやつの元
 >
 ### :star: [TOHE](https://github.com/KARPED1EM/TownOfHostEdited) :
 > 
